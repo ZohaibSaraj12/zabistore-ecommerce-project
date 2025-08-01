@@ -1,10 +1,10 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:project_learning/constants/constants.dart';
-import 'package:project_learning/screens/widgets/custom_animated_container.dart';
-import 'package:project_learning/screens/widgets/item_banner.dart';
-import 'package:project_learning/screens/widgets/item_category.dart';
-import 'package:project_learning/screens/widgets/item_product.dart';
+import 'package:project_learning/widgets/custom_animated_container.dart';
+import 'package:project_learning/widgets/item_banner.dart';
+import 'package:project_learning/widgets/item_category.dart';
+import 'package:project_learning/widgets/item_product.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
